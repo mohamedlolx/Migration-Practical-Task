@@ -1,4 +1,4 @@
-# Migration-Practical-Task
+# Migration-Practical-Training
 Simple Migration  with PostgreSQL 
 
 For Creating The DB :
